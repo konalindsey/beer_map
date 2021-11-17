@@ -5,8 +5,8 @@ Topic:         Mapping US Breweries
 Purpose:       Use Python libraries and the Open Brewery DB API to find,
                organize, and visualize data on breweries in the United States.
 
-Partner Name: Kona Lindsey
-Partner Name: Nate Sommer
+Written by: Kona Lindsey
+
 '''
 ###############################################################################
 
