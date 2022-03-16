@@ -23,7 +23,7 @@ from folium import Choropleth, Circle, Marker
 from folium.plugins import HeatMap, MarkerCluster
 import geopy.geocoders
 from geopy.geocoders import Nominatim
-geopy.geocoders.options.default_user_agent = "dcs211_nsommer/1"
+geopy.geocoders.options.default_user_agent = "dcs211_klindse2/1"
 geopy.geocoders.options.default_timeout = 10
 
 ###############################################################################
